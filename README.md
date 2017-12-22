@@ -1,1 +1,1 @@
-# Weapons Of War Fishing Bot 
+# Lazy Bums Allday!!! =) 
