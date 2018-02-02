@@ -5,4 +5,10 @@
 #new Icon
 #-------------------------------
 #Happy Botting Guys 
+
+# -----February 2 Update-----
+#Client Version Re-Patch
+#Use Ver. 1.3 for Botting
+
+
  
