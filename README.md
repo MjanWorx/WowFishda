@@ -1,5 +1,9 @@
 
-# -----May 2 Update-----
+# -----june 1 2018 Update----
+#Client Version Re-Patch
+#Use Ver. 1.5 for Botting
+#Smart AI FISHING enabled
+# -----May 2 2018 Update-----
 #Client Version Re-Patch
 #Use Ver. 1.4 for Botting
 # -----February 2 Update-----
