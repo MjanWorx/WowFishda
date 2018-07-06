@@ -1,3 +1,8 @@
+# -----july 6 2018 Update----
+#Update to Version 1.6
+#re adjust Casting of Pole
+#Remove misc options
+#ver 1.4 Allrounder is still working
 
 # -----june 1 2018 Update----
 #Client Version Re-Patch
